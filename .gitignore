@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Visual Studio-specific stuff
+/dbg_census.pyproj
+/dbg_census.sln
+*.vs
+
+# cached python files
+*__pycache__
+*.pyc
+
