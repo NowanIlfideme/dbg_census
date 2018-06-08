@@ -1,6 +1,10 @@
 dbg_census
 =======
 
+The following is from the original documentation: https://github.com/abathur/dbg_census
+Currently I'm working on expanding this in the direction of "Planetside 2 stats".
+
+
 dbg_census is a minimalist Python wrapper for the Daybreak Games Census API, which provides stats
 and other information for DBG titles like Planetside 2, Everquest 2, and DC Universe Online.
 
